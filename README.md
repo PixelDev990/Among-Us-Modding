@@ -1,6 +1,6 @@
 ## Note:
 <br>
-_Please note that peasapi is included for making it easy for people who cant pay people to make mods for them  and instead make your own mods but if you want to learn cool stuff like custom maps and advanced roles like the thanos role learning C# is more than important.Peasplayer did not contribute to this repository and i am just using his api as its more easy to mod with.
+*Please note that peasapi is included for making it easy for people who cant pay people to make mods for them  and instead make your own mods but if you want to learn cool stuff like custom maps and advanced roles like the thanos role learning C# is more than important.Peasplayer did not contribute to this repository and i am just using his api as its more easy to mod with.*
 
 
 # Getting Started...
@@ -31,4 +31,4 @@ Once you setup your hindenburg server you're free to play and test you're role w
 
 @2022 Rezend Inc. [PixelKing]
 <br>
-_This repository is owned and maintained by Pixelking and if there are any mistakes please dm me on discord (socials on profile)
+*This repository is owned and maintained by Pixelking and if there are any mistakes please dm me on discord (socials on profile)*
