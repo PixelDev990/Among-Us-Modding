@@ -4,7 +4,8 @@ _Please note that peasapi is included for making it easy for people who cant pay
 _Please also note that peasplayer had no contribution on this repository and everything here i included by me for making it easy for beginers.
 
 # Getting Started...
-Important links-
+Important links:
+<br>
 [Docs](docs.reactor.gg) (API for modding) 
 <br>
 [Second Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
