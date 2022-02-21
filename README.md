@@ -1,6 +1,7 @@
 # Getting Started...
 Important links-
-[Docs](docs.reactor.gg) (API for modding) \n
+[Docs](docs.reactor.gg) (API for modding) 
+__
 [Second Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
 # Once you finish all installation steps do this:
 Ill be showing you how to make a role now:
@@ -159,6 +160,7 @@ namespace ExampleMod
 }
 ```
 [Full Code Here](https://github.com/Peasplayer/ExampleAmongUsMod/blob/master/ExampleMod/)
+__
 Thanks to peasplayer 
 
 # Got an error? No problem!
