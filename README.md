@@ -1,13 +1,13 @@
 # Getting Started...
 Important links-
 [Docs](docs.reactor.gg) (API for modding) 
-__
+--
 [Second Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
 # Once you finish all installation steps do this:
 Ill be showing you how to make a role now:
 (put the file as role.cs in your exampleproject/modname directory)
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using BepInEx.IL2CPP;
@@ -160,7 +160,7 @@ namespace ExampleMod
 }
 ```
 [Full Code Here](https://github.com/Peasplayer/ExampleAmongUsMod/blob/master/ExampleMod/)
-__
+--
 Thanks to peasplayer 
 
 # Got an error? No problem!
@@ -168,7 +168,7 @@ Thanks to peasplayer
 # To finish up build your mod and setup a server!
 
 To make a server the best software i'd say is [Hindenburg](https://github.com/SkeldJS/Hindenburg)
-
+--
 Once you setup your hindenburg server you're free to play and test you're role with your friends!
 
 ## Advanced Modding Coming Soon......
