@@ -1,7 +1,7 @@
 # Getting Started...
 Important links-
-[Docs](docs.reactor.gg) (API for modding)
-[Second Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy)
+[Docs](docs.reactor.gg) (API for modding) \n
+[Second Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
 # Once you finish all installation steps do this:
 Ill be showing you how to make a role now:
 (put the file as role.cs in your exampleproject/modname directory)
