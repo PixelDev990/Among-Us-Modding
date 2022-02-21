@@ -30,4 +30,5 @@ Once you setup your hindenburg server you're free to play and test you're role w
 ## Advanced Modding Coming Soon......
 
 @2022 Rezend Inc. [PixelKing]
+<br>
 _This repository is owned and maintained by Pixelking and if there are any mistakes please dm me on discord (socials on profile)
