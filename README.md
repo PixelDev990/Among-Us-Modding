@@ -32,6 +32,7 @@ Custom Rpc's and Settings
 
 # Custom Rpc's
 What is a Custom Rpc?
+<br>
 Custom rpc is kind of a setting used to determine the roles in the mod for its custom settings or timers.
 <br>
 How to make an rpc?
