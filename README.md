@@ -1,5 +1,3 @@
-## Note:
-<br>
 _Please Note that i've included peasapi as its easy for begginers and the creator "PeasPlayer" did not contribute to this repository and i have credited him because of his wonderfull api.
 
 # Getting Started...
