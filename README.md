@@ -1,6 +1,6 @@
 ## Note:
 <br>
-*Please note that peasapi is included for making it easy for people who cant pay people to make mods for them  and instead make your own mods but* *if you want to learn cool stuff like custom maps and advanced roles like the thanos role learning C# is more than important.Peasplayer did not* *contribute to this repository and i am just using his api as its more easy to mod with.*
+_Please Note that i've included peasapi as its easy for begginers and the creator "PeasPlayer" did not contribute to this repository and i have credited him because of his wonderfull api.
 
 # Getting Started...
 Important links:
@@ -13,7 +13,7 @@ Ill be showing you how to make a role now:
 (put the file as role.cs in your exampleproject/modname directory)
 <br>
 [Role Src Here](https://github.com/PixelDev990/Among-Us-Modding/blob/main/AU-Modding%20Src/Roles/ExampleImposter.cs)
-
+<br>
 [Full Code Here](https://github.com/Peasplayer/ExampleAmongUsMod/blob/master/ExampleMod/)
 <br>
 Thanks to peasplayer 
