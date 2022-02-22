@@ -4,5 +4,6 @@ namespace TownOfUs
     {
         SetExampleImposter = 100,    
             }
+
 }
     
