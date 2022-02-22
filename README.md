@@ -1,6 +1,7 @@
 <p align="center">Please Note that i've included peasapi as its easy for begginers and the creator "PeasPlayer" did not contribute to this repository and i have credited him because of his wonderfull api.</p>
 
 # Getting Started...
+# Chapter 1 \[Basic Modding]
 Important links:
 <br>
 [Docs](https://docs.reactor.gg) (API for modding) 
@@ -24,7 +25,36 @@ To make a server the best software i'd say is [Hindenburg](https://github.com/Sk
 <br>
 Once you setup your hindenburg server you're free to play and test you're role with your friends!
 
-## Advanced Modding Coming Soon......
+## Chapter 2 \[SomeWhat Advanced]
+Custom Rpc's and Settings
+<br>
+[Code Used](https://github.com/eDonnes124/Town-Of-Us-R/tree/master/source) (Town Of Us code is the best example)
+
+# Custom Rpc's
+What is a Custom Rpc?
+Custom rpc is kind of a setting used to determine the roles in the mod for its custom settings or timers.
+<br>
+How to make an rpc?
+<br>
+Lets make a custom rpc for our example role shall we?
+```cs
+namespace ExampleMod
+{
+    public enum CustomRPC
+    {
+        SetExampleImposter = 100,    
+            }
+          } 
+        }
+      }
+    }
+  }
+}
+```
+    
+
+
+
 
 @2022 Rezend Inc. [PixelKing]
 <br>
