@@ -32,7 +32,7 @@ Custom Rpc's and Settings
 <br>
 [Code Used](https://github.com/eDonnes124/Town-Of-Us-R/tree/master/source) (Town Of Us code is the best example)
 
-# Custom Rpc's
+## Custom Rpc's
 What is a Custom Rpc?
 <br>
 Custom rpc is kind of a setting used to determine the roles in the mod for its custom settings or timers.
@@ -55,11 +55,11 @@ namespace ExampleMod
 }
 ```
 Welp Thats an rpc....
-# Custom Settinga
+## Custom Settinga
 These are the things with which you set your cooldowns and buttons and have to be implemented in you `mod.cs` file
 _Pending....
     
-
+# Next Chapter - (Custom Cosmectics and Custom Colors)
 
 
 
