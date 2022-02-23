@@ -1,6 +1,6 @@
 <p align="center">Please Note that i've included peasapi as its easy for begginers and the creator "PeasPlayer" did not contribute to this repository and i have credited him because of his wonderfull api.</p>
 
-# Getting Started...
+## Getting Started...
 # Chapter 1 \[Basic Modding]
 Plugins:
 <br>
