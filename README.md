@@ -1,7 +1,7 @@
 <p align="center">Please Note that i've included peasapi as its easy for begginers and the creator "PeasPlayer" did not contribute to this repository and i have credited him because of his wonderfull api.</p>
 
-## Getting Started...
-# Chapter 1 \[Basic Modding]
+# Getting Started...
+## Chapter 1 \[Basic Modding]
 Plugins:
 <br>
 [Docs & Builds](https://docs.reactor.gg) (API for modding) 
@@ -9,7 +9,7 @@ Plugins:
 [Role Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
 <br>
 [For Custom Settings](https://github.com/DorCoMaNdO/Reactor-Essentials)
-# Once you finish all installation steps do this:
+## Once you finish all installation steps do this:
 Ill be showing you how to make a role now:
 (put the file as role.cs in your exampleproject/modname directory)
 <br>
@@ -19,9 +19,9 @@ Ill be showing you how to make a role now:
 <br>
 Thanks to peasplayer 
 
-# Got an error? No problem!
+## Got an error? No problem!
 [Support](https://reactor.gg)
-# To finish up build your mod and setup a server!
+## To finish up build your mod and setup a server!
 
 To make a server the best software i'd say is [Hindenburg](https://github.com/SkeldJS/Hindenburg)
 <br>
@@ -54,6 +54,10 @@ namespace ExampleMod
   }
 }
 ```
+Welp Thats an rpc....
+# Custom Settinga
+These are the things with which you set your cooldowns and buttons and have to be implemented in you `mod.cs` file
+_Pending....
     
 
 
