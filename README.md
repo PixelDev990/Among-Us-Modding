@@ -2,11 +2,13 @@
 
 # Getting Started...
 # Chapter 1 \[Basic Modding]
-Important links:
+Plugins:
 <br>
-[Docs](https://docs.reactor.gg) (API for modding) 
+[Docs & Builds](https://docs.reactor.gg) (API for modding) 
 <br>
-[Second Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
+[Role Api](https://docs.peasplayer.tk/among-us-lessons/) (For making it easy) 
+<br>
+[For Custom Settings](https://github.com/DorCoMaNdO/Reactor-Essentials)
 # Once you finish all installation steps do this:
 Ill be showing you how to make a role now:
 (put the file as role.cs in your exampleproject/modname directory)
