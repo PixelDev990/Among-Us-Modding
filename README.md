@@ -60,12 +60,13 @@ _Pending....
 ## Custom Cosmetics and Colors:
 # Example:
 ```cs
-            CustomHatManager.RegisterNewVisor("DreamMask", "Peasmod.Resources.Hats.DreamMask.png", new Vector2(0f, 0.2f));
+CustomHatManager.RegisterNewVisor("DreamMask", "Peasmod.Resources.Hats.DreamMask.png", new Vector2(0f, 0.2f));
 ```
 <br>
 Custom Cosmetics (in your ExampleMod.cs file)
+<br>
 ```cs
-            CustomColorManager.RegisterCustomColor(new Color(255 / 255f, 250 / 255f, 179 / 250f), "Snow");
+CustomColorManager.RegisterCustomColor(new Color(255 / 255f, 250 / 255f, 179 / 250f), "Snow");
 ```
 <br>
 Custom Colors
