@@ -19,8 +19,6 @@ Ill be showing you how to make a role now:
 <br>
 Thanks to peasplayer 
 
-## Got an error? No problem!
-[Support](https://reactor.gg)
 ## To finish up build your mod and setup a server!
 
 To make a server the best software i'd say is [Hindenburg](https://github.com/SkeldJS/Hindenburg)
@@ -59,9 +57,30 @@ Welp Thats an rpc....
 These are the things with which you set your cooldowns and buttons and have to be implemented in you `mod.cs` file
 _Pending....
     
-# Next Chapter - (Custom Cosmectics and Custom Colors)
+## Custom Cosmetics and Colors:
+# Example:
+```cs
+            CustomHatManager.RegisterNewVisor("DreamMask", "Peasmod.Resources.Hats.DreamMask.png", new Vector2(0f, 0.2f));
+```
+<br>
+Custom Cosmetics (in your ExampleMod.cs file)
+```cs
+            CustomColorManager.RegisterCustomColor(new Color(255 / 255f, 250 / 255f, 179 / 250f), "Snow");
+```
+<br>
+Custom Colors
 
 
+## Got an error? No problem!
+[Support](https://reactor.gg)
+
+## Credits:
+<br>
+[PeasPlayer](https://github.com/Peasplayer/) For The API and Most of the code
+<br>
+[Reactor](https://reactor.gg)
+<br>
+[MrWeasel1000](https://github.com/MrWeasel1000) For External Help
 
 @2022 Rezend Inc. [PixelKing]
 <br>
