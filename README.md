@@ -55,7 +55,7 @@ namespace ExampleMod
 }
 ```
 Welp Thats an rpc....
-## Custom Settinga
+## Custom Settings
 These are the things with which you set your cooldowns and buttons and have to be implemented in you `mod.cs` file
 _Pending....
     
