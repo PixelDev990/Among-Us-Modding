@@ -65,6 +65,7 @@ CustomHatManager.RegisterNewVisor("DreamMask", "Peasmod.Resources.Hats.DreamMask
 <br>
 Custom Cosmetics (in your ExampleMod.cs file)
 <br>
+--
 ```cs
 CustomColorManager.RegisterCustomColor(new Color(255 / 255f, 250 / 255f, 179 / 250f), "Snow");
 ```
