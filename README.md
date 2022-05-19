@@ -1,1 +1,1 @@
-[Closed For Code And Stuff Please Wait for Reopens](pixelking.net)
+[Closed For Code And Stuff Please Wait for Reopens](https://www.pixelking.net)
